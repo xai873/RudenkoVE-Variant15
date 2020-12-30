@@ -1,0 +1,8 @@
+com/example/mainactivity/MainActivity.java
+ com.example.mainactivity.MainActivity
+com/example/mainactivity/BackActivity.java
+ com.example.mainactivity.BackActivity
+com/example/mainactivity/BuildConfig.java
+ com.example.mainactivity.BuildConfig
+com/example/mainactivity/NextActivity.java
+ com.example.mainactivity.NextActivity
